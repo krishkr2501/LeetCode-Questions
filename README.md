@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0064-minimum-path-sum) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
