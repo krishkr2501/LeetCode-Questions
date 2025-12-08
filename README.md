@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 ## Memoization
 |  |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
