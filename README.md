@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0322-coin-change) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
