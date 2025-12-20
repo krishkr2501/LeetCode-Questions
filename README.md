@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0070-climbing-stairs) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0048-rotate-image](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0174-dungeon-game) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0174-dungeon-game) |
