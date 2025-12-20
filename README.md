@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0322-coin-change) |
 ## Bit Manipulation
@@ -106,9 +107,18 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0200-number-of-islands) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0200-number-of-islands) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
