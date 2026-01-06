@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0069-sqrtx) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 ## Hash Table
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
