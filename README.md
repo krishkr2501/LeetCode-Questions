@@ -149,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3075-maximize-happiness-of-selected-children](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
