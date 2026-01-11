@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0064-minimum-path-sum) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0047-permutations-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0174-dungeon-game) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 ## Simulation
 |  |
 | ------- |
