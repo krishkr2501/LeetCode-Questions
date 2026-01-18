@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -144,12 +145,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -169,5 +172,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
