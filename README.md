@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0174-dungeon-game](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0174-dungeon-game) |
 | [0213-house-robber-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0047-permutations-ii) |
 | [0268-missing-number](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 ## String
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Database
 |  |
