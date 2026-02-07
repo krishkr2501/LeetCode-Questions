@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0518-coin-change-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Combinatorics
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0125-valid-palindrome) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Hash Table
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Recursion
 |  |
 | ------- |
