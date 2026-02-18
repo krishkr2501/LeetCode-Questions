@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0174-dungeon-game](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -223,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
