@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0029-divide-two-integers) |
+| [0191-number-of-1-bits](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 ## Simulation
 |  |
