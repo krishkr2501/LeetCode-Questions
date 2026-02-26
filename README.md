@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0125-valid-palindrome) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Hash Table
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Binary Search
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0043-multiply-strings](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0258-add-digits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Number Theory
 |  |
 | ------- |
