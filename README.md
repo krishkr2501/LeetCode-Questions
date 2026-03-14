@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Dynamic Programming
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0518-coin-change-ii) |
+| [0523-continuous-subarray-sum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0724-find-pivot-index](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0740-delete-and-earn) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0523-continuous-subarray-sum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0740-delete-and-earn](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0740-delete-and-earn) |
 ## Breadth-First Search
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
