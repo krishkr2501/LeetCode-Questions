@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0042-trapping-rain-water](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0053-maximum-subarray) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -266,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1732-find-the-highest-altitude) |
 | [2121-intervals-between-identical-elements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2121-intervals-between-identical-elements) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
