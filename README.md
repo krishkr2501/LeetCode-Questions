@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0044-wildcard-matching) |
 | [0125-valid-palindrome](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0044-wildcard-matching) |
 | [0435-non-overlapping-intervals](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0231-power-of-two) |
 ## Design
