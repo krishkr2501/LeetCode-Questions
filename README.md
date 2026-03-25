@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2121-intervals-between-identical-elements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2121-intervals-between-identical-elements) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3546-equal-sum-grid-partition-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 ## Matrix
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0174-dungeon-game](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [3546-equal-sum-grid-partition-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 ## Linked List
 |  |
 | ------- |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1732-find-the-highest-altitude) |
 | [2121-intervals-between-identical-elements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2121-intervals-between-identical-elements) |
+| [3546-equal-sum-grid-partition-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -299,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
