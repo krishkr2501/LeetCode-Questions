@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
+| [0766-toeplitz-matrix](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0200-number-of-islands) |
+| [0766-toeplitz-matrix](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0766-toeplitz-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3546-equal-sum-grid-partition-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 ## Linked List
