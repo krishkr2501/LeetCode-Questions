@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0279-perfect-squares) |
 | [0523-continuous-subarray-sum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0174-dungeon-game](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0174-dungeon-game) |
 | [0213-house-robber-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0518-coin-change-ii) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0112-path-sum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0322-coin-change) |
 ## Bit Manipulation
 |  |
