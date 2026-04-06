@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2121-intervals-between-identical-elements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2121-intervals-between-identical-elements) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2865-beautiful-towers-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2865-beautiful-towers-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3546-equal-sum-grid-partition-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 ## Matrix
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0150-evaluate-reverse-polish-notation](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2487-remove-nodes-from-linked-list](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2487-remove-nodes-from-linked-list) |
+| [2865-beautiful-towers-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2865-beautiful-towers-i) |
 ## Recursion
 |  |
 | ------- |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [2487-remove-nodes-from-linked-list](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2487-remove-nodes-from-linked-list) |
+| [2865-beautiful-towers-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2865-beautiful-towers-i) |
 ## Trie
 |  |
 | ------- |
