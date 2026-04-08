@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0024-swap-nodes-in-pairs](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0086-partition-list) |
 | [0147-insertion-sort-list](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0203-remove-linked-list-elements) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0061-rotate-list](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
