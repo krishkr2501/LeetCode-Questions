@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
+| [0456-132-pattern](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0456-132-pattern) |
 | [0518-coin-change-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0456-132-pattern](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0456-132-pattern) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0456-132-pattern](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0456-132-pattern) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2487-remove-nodes-from-linked-list](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 | [2865-beautiful-towers-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2865-beautiful-towers-i) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0456-132-pattern) |
 | [2487-remove-nodes-from-linked-list](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 | [2865-beautiful-towers-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2865-beautiful-towers-i) |
 ## Trie
@@ -345,5 +349,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0456-132-pattern) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
