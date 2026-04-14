@@ -1,27 +1,21 @@
 class Solution {
     public int countPrimeSetBits(int left, int right) {
-        int cnt = 0;
+        int ans = 0;
         while(left<=right){
-            String bits = Integer.toBinaryString(left);
-            int ones = 0;
-            for(int i=0;i<bits.length();i++){
-                if(bits.charAt(i) == '1'){
-                    ones++;
-                }
+            int cnt = cntbits(left);
+            if (cnt == 2 || cnt == 3 || cnt == 5 || cnt == 7 || cnt == 11 || 
+                cnt == 13 || cnt == 17 || cnt == 19 || cnt == 23 || cnt == 29 || cnt == 31) {
+                ans++;
             }
-            if (ones > 1) {
-            boolean isPrime = true;
-            for (int i = 2; i <= Math.sqrt(ones); i++) {
-                if (ones % i == 0) {
-                    isPrime = false; 
-                    break;
-                }
-            }
-            if (isPrime) {
-                cnt++; 
-            }
+            left++;
         }
-        left++;
+        return ans;
+    }
+    private int cntbits(int num){
+        int cnt = 0;
+        while(num>0){
+            num &= num-1;
+            cnt++;
         }
         return cnt;
     }
