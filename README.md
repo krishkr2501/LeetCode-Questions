@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0322-coin-change) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bucket Sort
@@ -353,4 +355,16 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0456-132-pattern](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0456-132-pattern) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
