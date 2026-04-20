@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0977-squares-of-a-sorted-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1732-find-the-highest-altitude) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2121-intervals-between-identical-elements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2121-intervals-between-identical-elements) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0044-wildcard-matching) |
 | [0435-non-overlapping-intervals](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Database
