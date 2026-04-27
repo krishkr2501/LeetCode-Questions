@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0213-house-robber-ii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0147-insertion-sort-list) |
+| [0169-majority-element](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0160-intersection-of-two-linked-lists](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 ## Simulation
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Quickselect
