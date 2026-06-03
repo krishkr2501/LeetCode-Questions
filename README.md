@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0279-perfect-squares](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0279-perfect-squares) |
 | [0445-add-two-numbers-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
+| [0539-minimum-time-difference](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0539-minimum-time-difference) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0518-coin-change-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0539-minimum-time-difference) |
 | [0566-reshape-the-matrix](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0740-delete-and-earn) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0539-minimum-time-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1833-maximum-ice-cream-bars) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0168-excel-sheet-column-title) |
+| [0539-minimum-time-difference](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0539-minimum-time-difference) |
 | [0657-robot-return-to-origin](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1108-defanging-an-ip-address) |
