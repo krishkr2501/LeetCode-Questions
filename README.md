@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0168-excel-sheet-column-title) |
+| [0204-count-primes](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0263-ugly-number) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0258-add-digits) |
 ## Depth-First Search
 |  |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0204-count-primes) |
 | [3546-equal-sum-grid-partition-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Doubly-Linked List
