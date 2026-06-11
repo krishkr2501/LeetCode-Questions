@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0766-toeplitz-matrix](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1366-rank-teams-by-votes](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1366-rank-teams-by-votes) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1833-maximum-ice-cream-bars) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0532-k-diff-pairs-in-an-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0539-minimum-time-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1366-rank-teams-by-votes](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1366-rank-teams-by-votes) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2126-destroying-asteroids) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0657-robot-return-to-origin](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1108-defanging-an-ip-address) |
+| [1366-rank-teams-by-votes](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1366-rank-teams-by-votes) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0523-continuous-subarray-sum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0740-delete-and-earn](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0740-delete-and-earn) |
+| [1366-rank-teams-by-votes](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1366-rank-teams-by-votes) |
 | [2121-intervals-between-identical-elements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2121-intervals-between-identical-elements) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2564-substring-xor-queries](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2564-substring-xor-queries) |
@@ -371,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [1366-rank-teams-by-votes](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1366-rank-teams-by-votes) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Quickselect
 |  |
