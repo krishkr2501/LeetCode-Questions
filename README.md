@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0203-remove-linked-list-elements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0203-remove-linked-list-elements) |
 | [0445-add-two-numbers-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0707-design-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Memoization
 |  |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0445-add-two-numbers-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0456-132-pattern) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 | [2865-beautiful-towers-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2865-beautiful-towers-i) |
 ## Recursion
