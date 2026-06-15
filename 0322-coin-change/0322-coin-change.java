@@ -1,39 +1,21 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
-        int[][] arr = new int[coins.length + 1][amount + 1];
-        for (int i = 0; i < arr.length; i++) {
-            for (int j = 0; j < arr[0].length; j++) {
-                arr[i][j] = -2;
-            }
+        int[][] memo = new int[coins.length][amount+1];
+        for(int[] val: memo){
+            Arrays.fill(val,-1);
         }
-        int ans = dp(coins, 0, amount, arr);
-        if (ans == Integer.MAX_VALUE) {
-            return -1;
-        } else {
-            return ans;
-        }
+        int ans = mincoin(coins,0,amount,memo);
+        if(ans != Integer.MAX_VALUE) return ans;
+        return -1;
     }
-
-    private int dp(int[] coins, int i, int amt, int[][] arr) {
-        if (amt == 0) {
-            return 0;
-        }
-        if (i >= coins.length || amt < 0) {
-            return Integer.MAX_VALUE;
-        }
-        if (arr[i][amt] != -2) {
-            return arr[i][amt];
-        }
-        int incResult = dp(coins, i, amt - coins[i], arr);
-        int inc = 0;
-        if (incResult == Integer.MAX_VALUE) {
-            inc = Integer.MAX_VALUE;
-        } else {
-            inc = 1 + incResult;
-
-        }
-        int lea = dp(coins, i + 1, amt, arr);
-        arr[i][amt] = Math.min(inc, lea);
-        return arr[i][amt];
+    private int mincoin(int[] coins, int i,int amt,int[][] memo){
+        if(amt == 0) return 0;
+        if(i>=coins.length || amt<0) return Integer.MAX_VALUE;
+        if(memo[i][amt] != -1) return memo[i][amt];
+        int inc = mincoin(coins,i,amt-coins[i],memo);
+        if(inc != Integer.MAX_VALUE) inc = 1 +inc;
+        int not = mincoin(coins,i+1,amt,memo);
+        memo[i][amt] = Math.min(inc,not);
+        return memo[i][amt];
     }
 }
