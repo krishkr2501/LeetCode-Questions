@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0174-dungeon-game](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0174-dungeon-game) |
 | [0213-house-robber-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0213-house-robber-ii) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0044-wildcard-matching) |
+| [0072-edit-distance](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0168-excel-sheet-column-title) |
