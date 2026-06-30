@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3075-maximize-happiness-of-selected-children](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3546-equal-sum-grid-partition-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3838-weighted-word-mapping](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3838-weighted-word-mapping) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2564-substring-xor-queries](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2564-substring-xor-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Breadth-First Search
 |  |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2126-destroying-asteroids](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2126-destroying-asteroids) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Database
 |  |
 | ------- |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 | [2865-beautiful-towers-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2865-beautiful-towers-i) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -422,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0456-132-pattern](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0456-132-pattern) |
 | [2487-remove-nodes-from-linked-list](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 | [2865-beautiful-towers-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2865-beautiful-towers-i) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Trie
 |  |
 | ------- |
