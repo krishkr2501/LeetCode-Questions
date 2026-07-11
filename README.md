@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0322-coin-change](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2685-count-the-number-of-complete-components](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2685-count-the-number-of-complete-components](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Union Find
 |  |
 | ------- |
@@ -471,8 +473,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2685-count-the-number-of-complete-components](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Shortest Path
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
