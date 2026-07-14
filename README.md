@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0169-majority-element) |
