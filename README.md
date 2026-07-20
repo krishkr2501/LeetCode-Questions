@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0766-toeplitz-matrix](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0977-squares-of-a-sorted-array) |
+| [1260-shift-2d-grid](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1366-rank-teams-by-votes](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1366-rank-teams-by-votes) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0566-reshape-the-matrix](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0766-toeplitz-matrix) |
+| [1260-shift-2d-grid](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3546-equal-sum-grid-partition-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 ## Linked List
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0657-robot-return-to-origin) |
+| [1260-shift-2d-grid](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2553-separate-the-digits-in-an-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2553-separate-the-digits-in-an-array) |
