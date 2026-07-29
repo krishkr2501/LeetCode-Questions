@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2121-intervals-between-identical-elements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2121-intervals-between-identical-elements) |
 | [2126-destroying-asteroids](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2126-destroying-asteroids) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2553-separate-the-digits-in-an-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2564-substring-xor-queries](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2564-substring-xor-queries) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1366-rank-teams-by-votes](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1366-rank-teams-by-votes) |
 | [2121-intervals-between-identical-elements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2121-intervals-between-identical-elements) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2564-substring-xor-queries](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2564-substring-xor-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [1366-rank-teams-by-votes](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1366-rank-teams-by-votes) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Quickselect
 |  |
 | ------- |
