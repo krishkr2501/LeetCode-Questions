@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1727-largest-submatrix-with-rearrangements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1833-maximum-ice-cream-bars) |
+| [1929-concatenation-of-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0657-robot-return-to-origin](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0657-robot-return-to-origin) |
 | [1260-shift-2d-grid](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1929-concatenation-of-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2553-separate-the-digits-in-an-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
