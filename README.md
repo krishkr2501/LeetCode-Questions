@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2564-substring-xor-queries](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2564-substring-xor-queries) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3838-weighted-word-mapping](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0239-sliding-window-maximum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Monotonic Queue
 |  |
 | ------- |
