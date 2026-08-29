@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2351-first-letter-to-appear-twice](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2351-first-letter-to-appear-twice) |
 | [2564-substring-xor-queries](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2564-substring-xor-queries) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3838-weighted-word-mapping](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3838-weighted-word-mapping) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2121-intervals-between-identical-elements](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2121-intervals-between-identical-elements) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2351-first-letter-to-appear-twice) |
 | [2564-substring-xor-queries](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2564-substring-xor-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2351-first-letter-to-appear-twice](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2351-first-letter-to-appear-twice) |
 | [2564-substring-xor-queries](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2564-substring-xor-queries) |
 ## Binary Search
 |  |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1366-rank-teams-by-votes](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1366-rank-teams-by-votes) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2351-first-letter-to-appear-twice) |
 ## Quickselect
 |  |
 | ------- |
