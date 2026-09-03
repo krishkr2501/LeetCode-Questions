@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3492-maximum-containers-on-a-ship](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3492-maximum-containers-on-a-ship) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3546-equal-sum-grid-partition-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3838-weighted-word-mapping](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3838-weighted-word-mapping) |
+| [3875-construct-uniform-parity-array-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
 | ------- |
