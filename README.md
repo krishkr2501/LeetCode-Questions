@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0165-compare-version-numbers](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0168-excel-sheet-column-title) |
 | [0516-longest-palindromic-subsequence](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0516-longest-palindromic-subsequence) |
+| [0520-detect-capital](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0520-detect-capital) |
 | [0539-minimum-time-difference](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0539-minimum-time-difference) |
 | [0657-robot-return-to-origin](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0709-to-lower-case) |
