@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0204-count-primes) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0089-gray-code) |
 | [0191-number-of-1-bits](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0268-missing-number) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0047-permutations-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0047-permutations-ii) |
+| [0089-gray-code](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0113-path-sum-ii) |
 ## Greedy
 |  |
