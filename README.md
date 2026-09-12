@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0539-minimum-time-difference](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0539-minimum-time-difference) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0877-stone-game) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2351-first-letter-to-appear-twice](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2351-first-letter-to-appear-twice) |
 | [2564-substring-xor-queries](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2564-substring-xor-queries) |
