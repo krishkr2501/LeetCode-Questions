@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0175-combine-two-tables) |
 | [0197-rising-temperature](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0197-rising-temperature) |
 ## Stack
 |  |
