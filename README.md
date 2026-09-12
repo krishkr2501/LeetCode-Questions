@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3492-maximum-containers-on-a-ship](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3492-maximum-containers-on-a-ship) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -525,4 +526,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0877-stone-game) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
