@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0523-continuous-subarray-sum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0539-minimum-time-difference) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0836-rectangle-overlap](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -534,5 +535,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/krishkr2501/LeetCode-Questions/tree/master/0836-rectangle-overlap) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
