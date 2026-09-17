@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2169-count-operations-to-obtain-zero](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3492-maximum-containers-on-a-ship](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3492-maximum-containers-on-a-ship) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1929-concatenation-of-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/krishkr2501/LeetCode-Questions/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2169-count-operations-to-obtain-zero](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/krishkr2501/LeetCode-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3838-weighted-word-mapping](https://github.com/krishkr2501/LeetCode-Questions/tree/master/3838-weighted-word-mapping) |
